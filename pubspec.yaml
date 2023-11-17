@@ -1,6 +1,6 @@
 name: flutter_extension_utilities
 description: A library of extension utilities on existing Flutter & Dart
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/RaghavTheGreat1/flutter_extension_utilities.git
 
 
@@ -9,7 +9,7 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  extension_utilities: ^1.0.2
+  extension_utilities: ^1.1.0
   flutter:
     sdk: flutter
 
